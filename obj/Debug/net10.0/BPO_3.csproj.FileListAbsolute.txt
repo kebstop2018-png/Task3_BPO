@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\bin\Debug\net10.0\BPO_3.exe
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\bin\Debug\net10.0\BPO_3.deps.json
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\bin\Debug\net10.0\BPO_3.runtimeconfig.json
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\bin\Debug\net10.0\BPO_3.dll
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\bin\Debug\net10.0\BPO_3.pdb
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.dll
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\refint\BPO_3.dll
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.pdb
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\BPO_3.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\PR1-3\BPO_3\obj\Debug\net10.0\ref\BPO_3.dll
