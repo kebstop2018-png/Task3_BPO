@@ -1,5 +1,6 @@
 ﻿using System;
 
+// 7 вариант (3 задание)
 namespace BPO_3_Polymorphism
 {
     interface IFigure
