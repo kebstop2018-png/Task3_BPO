@@ -81,6 +81,9 @@ namespace BPO_3_Polymorphism
         public IsoscelesTriangle(double leg, double baseS)
             : base("Равнобедренный треугольник", leg, leg, baseS)
         {
+            if (baseS >= 2 * leg)
+                throw new ArgumentException("Такой равнобедренный треугольник не существует.");
+        
             Console.WriteLine("Равнобедренный треугольник успешно создан.");
         }
 
