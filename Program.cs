@@ -166,6 +166,13 @@ namespace BPO_3_Polymorphism
             double sq = ReadPositiveDouble("Квадрат - Сторона: ");
             double leg = ReadPositiveDouble("\nРавнобедренный треугольник - Боковая сторона: ");
             double bs = ReadPositiveDouble("Основание: ");
+            
+            while (bs >= 2 * leg)
+                {
+                    Console.WriteLine("Основание должно быть меньше суммы двух боковых сторон.");
+                    bs = ReadPositiveDouble("Введите основание ещё раз: ");
+                }
+            
             double ca = ReadPositiveDouble("\nПрямоугольный треугольник - Катет A: ");
             double cb = ReadPositiveDouble("Катет B: ");
             double eq = ReadPositiveDouble("\nРавносторонний треугольник - Сторона: ");
